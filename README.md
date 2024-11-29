@@ -3,11 +3,15 @@
 A Townname NewGRF for OpenTTD that features towns and cities of the Philippines.
 
 The names follow an _exponential probability distribution_, slightly favoring more populous cities.  
+
+![Probability distribution.](/_readme/chart.png)
+
+
 Although inconsequential for an OpenTTD game, it reflects the country's rural demographics.  
 While the total population is estimated to be **114,163,719** people, the population of top 10 cities falls quite quickly:
 
-| Name         | Population   |
-|--------------|--------------|
+| Name         | Population  |
+|-------------:|:------------|
 | Quezon City  |   2,960,048 |
 | Manila       |   1,846,513 |
 | Zamboanga    |   2,100,000 |
