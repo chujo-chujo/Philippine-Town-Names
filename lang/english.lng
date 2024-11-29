@@ -1,0 +1,7 @@
+##grflangid 0x01
+
+# General GRF strings
+STR_GRF_NAME:Philippine Town Names
+STR_GRF_DESC:{}{ORANGE}Towns and cities of the Philippines.{}{}{SILVER}Coding: {YELLOW}chujo{}{}{}{LTBLUE}November 30, 2024
+STR_GRF_URL:https://github.com/chujo-chujo/Philippine-Town-Names
+STR_OPTIONS:Philippine
