@@ -31,7 +31,7 @@ While the total population is estimated to be **114,163,719** people, the popula
 
 ## Credits
 
-Source data: [Simplemaps.com](https://simplemaps.com/data/world-cities), lincensed under CC BY 4.0.
+Source data: [Simplemaps.com](https://simplemaps.com/data/world-cities), licensed under CC BY 4.0.
 
 Coded by **chujo**.
 
