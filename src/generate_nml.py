@@ -42,13 +42,13 @@ def create_nml_line(data):
     probability = 1
     # Adjust probabilities based on population
     if pop >= 1500000:
-        probability = 127
+        probability = 60
     elif pop > 500000:
-        probability = 15
+        probability = 25
     elif pop > 70000:
-        probability = 3
+        probability = 6
     elif pop > 35000:
-        probability = 2
+        probability = 3
 
     if name == list(sorted_dict_of_town_names.keys())[-1]:
         return "        text(\"" + name + "\", " + str(probability) + ")"
