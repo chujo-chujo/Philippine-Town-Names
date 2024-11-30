@@ -8,7 +8,7 @@ The names follow an _exponential probability distribution_, slightly favoring mo
 
 
 Although inconsequential for an OpenTTD game, it reflects the country's rural demographics.  
-While the total population is estimated to be **114,163,719** people, the population of top 10 cities falls quite quickly:
+While the total population is estimated to be **114,163,719** people, the population of top 15 cities falls quite quickly:
 
 | Name         | Population  |
 |-------------:|:------------|
